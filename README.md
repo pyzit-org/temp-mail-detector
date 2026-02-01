@@ -1,4 +1,4 @@
-![Temp Mail Detector](assets/preview.png)
+![Temp Mail Detector](assets/_preview.png)
 
 # Temp Mail Detector
 
