@@ -1,3 +1,5 @@
+![Temp Mail Detector](assets/preview.png)
+
 # Temp Mail Detector
 
 **Temp Mail Detector** is a free online tool that helps identify temporary, disposable, and fake email addresses in real time.
